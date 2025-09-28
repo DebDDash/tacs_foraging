@@ -1,3 +1,4 @@
+%% This code was repeated for alpha,beta and gamma range
 %% --- Setup BIOSIG Path ---
 biosig_dir = '/Users/debarpita/Desktop/arjun/biosig4octmat-3.8.5/biosig';
 addpath(genpath(biosig_dir));
@@ -26,7 +27,7 @@ function subj = getSubjectID(fname)
     end
 end
 
-%% --- Helper: Power computation (ALPHA band 8–12 Hz) ---
+%% --- Helper: Power computation ( in this case we consider Low gamma band 30–45 Hz) ---
 function powerVals = computePower(sig, fs, samplesPerEpoch)
     % Bandpass low gamma (30–45 Hz)
     bpFilt = designfilt('bandpassiir','FilterOrder',4, ...
