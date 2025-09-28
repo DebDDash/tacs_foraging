@@ -15,7 +15,7 @@ Extracts EEG features including:
 ## comodulogram.m
 Generates comodulograms to visualize cross-frequency coupling.
 ## results
-Has analysis and outputs of above codes
+Has the outputs of above codes and the analysis of the variation of band powers across important electrodes.
 
 ## Key Findings (Resting Phase)  
 
