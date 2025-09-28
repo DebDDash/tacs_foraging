@@ -17,4 +17,15 @@ Generates comodulograms to visualize cross-frequency coupling.
 ## results
 Has analysis and outputs of above codes
 
+## Key Findings (Resting Phase)  
+
+- **Significant Effects:**  
+  - **theta–gamma PAC (F5–Fz):** Significant decrease (*p = 0.0443*).  
+
+- **Slightly Significant / Trend-Level Effects:**  
+  - **theta–theta PLV (F5–AFz):** Increase (*p = 0.116*).  
+  - **theta–theta PAC/PLV (F5–FCz):** Weak trends (*p = 0.101–0.131*).  
+  - **theta–theta PAC/PLV (F5–Fz):** Weak trends (*p = 0.13–0.14*).  
+
+We see a **decrease in theta–gamma coupling** at the F5–Fz electrode pair, with additional weaker trends in **theta–theta connectivity**. 
 
