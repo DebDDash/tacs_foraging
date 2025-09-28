@@ -14,6 +14,8 @@ Extracts EEG features including:
 - PLV (Phase Locking Value): Measures synchronization between signals.
 ## comodulogram.m
 Generates comodulograms to visualize cross-frequency coupling.
+## csvcompilation.m
+Generates a file which has data of all the participants along with features extracted.
 ## results
 Has the outputs of above codes and the analysis of the variation of band powers across important electrodes.
 
